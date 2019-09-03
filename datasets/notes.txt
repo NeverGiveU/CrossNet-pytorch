@@ -1,0 +1,19 @@
+The structure of "datasets" should be:
+datasets
+ ├─horse2zebra
+ │  ├─trainA
+ │  ├─trainB
+ │  ├─testA
+ │  └─testB
+ ├─dataset2_name
+ │  ├─trainA
+ │  ├─trainB
+ │  ├─testA
+ │  └─testB
+ ...
+ └─dataset'n_name
+    ├─trainA
+    ├─trainB
+    ├─testA
+    └─testB
+ 
