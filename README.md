@@ -30,19 +30,19 @@ git clone https://github.com/NeverGiveU/CrossNet-pytorch.git
 cd CrossNet-pytorch
 ```
 ### Dataset
-&nlsp;&nlsp;&nlsp;&nlsp;Download the dataset of **horse2zebra** in from [Baidu NetDisk](https://pan.baidu.com/s/1BqPsv7E6OwgItjIRxi7CCA).
+&ensp;&ensp;&ensp;&ensp;Download the dataset of **horse2zebra** in from [Baidu NetDisk](https://pan.baidu.com/s/1BqPsv7E6OwgItjIRxi7CCA).
 
-&nlsp;&nlsp;&nlsp;&nlsp;Unzip the .zip file to `datasets`.
+&ensp;&ensp;&ensp;&ensp;Unzip the .zip file to `datasets`.
 ### Train
-&nlsp;&nlsp;&nlsp;&nlsp;Use command `python train.py` to start trainning.
+&ensp;&ensp;&ensp;&ensp;Use command `python train.py` to start trainning.
 ### Test
-&nlsp;&nlsp;&nlsp;&nlsp;Use command `python test.py` to test after finishing the training.
+&ensp;&ensp;&ensp;&ensp;Use command `python test.py` to test after finishing the training.
 ## Results
-&nlsp;&nlsp;&nlsp;&nlsp;Some results can be seen in dir `sample`. Notice that, the results from **zebra** to **horse** is better than the results in inverse direction.
-![sample 1](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000010-00.jpg)
-![sample 2](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000061-00.jpg)
-![sample 3](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000089-00.jpg)
-![sample 4](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000116-00.jpg)
+&ensp;&ensp;&ensp;&ensp;Some results can be seen in dir `sample`. Notice that, the results from **zebra** to **horse** is better than the results in inverse direction.
+![alt sample 1](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000010-00.jpg)
+![alt sample 2](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000061-00.jpg)
+![alt sample 3](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000089-00.jpg)
+![alt sample 4](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000116-00.jpg)
 
 
 ## Some Notes
