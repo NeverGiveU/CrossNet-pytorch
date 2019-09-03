@@ -43,6 +43,7 @@ cd CrossNet-pytorch
 ![alt sample 2](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000061-00.jpg)
 ![alt sample 3](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000089-00.jpg)
 ![alt sample 4](https://github.com/NeverGiveU/CrossNet-pytorch/tree/master/samples/000116-00.jpg)
+![alt sample_1](https://github.com/NeverGiveU/CartoonGAN-pytorch/blob/master/sample_images/0015-001324.jpg)
 
 
 ## Some Notes
